@@ -1,5 +1,5 @@
-// SPDX-Licence-Identifier: GPL-3.0
-pragma solidity ^0.8.28;
+// SPDX-License-Identifier: GPL-3.0
+pragma solidity ^0.8.27;
 
 contract TaskToDo {
     enum TaskStatus {Pending, Finished}
